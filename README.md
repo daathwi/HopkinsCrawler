@@ -1,6 +1,4 @@
-# Selenium scrapping for hopskinmedicine.org
-
-## Follow the below steps inorder to get started.<br><br>
+## Selenium scrapping for hopskinmedicine.org
 
 Download the Zip Folder provided. And unzip the folder.
 ```
